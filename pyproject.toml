@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "LogWatch"
+version = "0.1.0"
+description = "Логирование своей сессии"
+authors = ["OLVOS <anhkrem@gmail.com>"]
+readme = "README.md"
+
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[tool.poetry.group.dev.dependencies]
+
+
+
+[build-system]
+
